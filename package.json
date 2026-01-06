@@ -1,0 +1,25 @@
+{
+  "name": "hikingapp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000h\u0000i\u0000k\u0000i\u0000n\u0000g\u0000A\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haim-aflalo/hikingApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Haim-aflalo/hikingApp/issues"
+  },
+  "homepage": "https://github.com/Haim-aflalo/hikingApp#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
